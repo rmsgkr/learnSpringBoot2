@@ -1,1 +1,1 @@
-# learnSpringboot2 - 일정관리 app
+# learnSpringBoot2 - 일정관리 app
